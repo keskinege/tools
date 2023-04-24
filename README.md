@@ -4,14 +4,6 @@
 
 Kubernetes Management & Monitoring. Desktop apps, works with kubeconfig
 
-**k8sgpt**
-
- ai with GPT. Analyze k8s. Needs openai account. https://k8sgpt.ai/. <u>This tool by its nature shares data with openai.</u>
-
-```
-brew install k8sgpt
-```
-
 **K9s cli** 
 
 NC style k8s management. free.  [K9s - Manage Your Kubernetes Clusters In Style (k9scli.io)](https://k9scli.io/) 
